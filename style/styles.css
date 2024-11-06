@@ -1,0 +1,25 @@
+
+nav > ul >li{
+    display: inline; 
+    text-decoration: none;
+    margin-right: 15px;
+}
+nav li{
+    list-style: none;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+nav li:hover{
+    background-color: tomato;
+}
+
+nav li a{
+    text-decoration: none;
+    color: purple;
+
+}
+footer{
+    margin-top: 80%;
+    text-align: center;
+}
